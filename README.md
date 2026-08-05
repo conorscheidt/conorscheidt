@@ -1,3 +1,1 @@
-<picture>
-<img align="center" alt="🦑" width="100%" src="/github-metrics.svg">
-</picture>
+All activity moved to [git.crs.so](git.crs.so).
